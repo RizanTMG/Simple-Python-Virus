@@ -31,7 +31,7 @@ def printBoard(board):
 def normal():
         a = "0"
 
-        for i in range(1000000):
+        for i in range(4000000):
                 a = int(a)
                 a += 1
                 a = str(a)
